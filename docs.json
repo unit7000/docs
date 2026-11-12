@@ -161,7 +161,7 @@
     "links": [
       {
         "label": "Verify certificate",
-        "href": "/verify"
+        "href": "https://academy.unit7000.org/verify-certificate"
       },
       {
         "label": "Submit IT ticket",

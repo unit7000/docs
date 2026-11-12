@@ -5,6 +5,3 @@
 # Draft content
 drafts/
 *.draft.mdx
-
-# Maintenance scripts
-scripts/
