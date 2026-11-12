@@ -1,0 +1,19 @@
+---
+title: "Verify a certificate"
+description: "Check that a Unit7000 training certificate is genuine."
+---
+
+import { CertificateVerify } from "/snippets/certificate-verify.jsx";
+import { certificateRegistry } from "/snippets/certificate-registry.jsx";
+
+Enter the certificate number printed on the certificate. If it was issued by Unit7000, you'll see who it was awarded to, the training they completed, and when they finished.
+
+<CertificateVerify registry={certificateRegistry} />
+
+## About this check
+
+- The certificate number is on the lower part of the certificate. You can type it with or without dashes.
+- If the certificate has a QR code, scanning it opens this page and runs the check for you.
+- A certificate marked **revoked** is no longer valid.
+
+Think a certificate is fake, or found a mistake on yours? Contact Unit7000 and include the certificate number.

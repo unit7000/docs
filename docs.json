@@ -160,6 +160,10 @@
   "navbar": {
     "links": [
       {
+        "label": "Verify certificate",
+        "href": "/verify"
+      },
+      {
         "label": "Submit IT ticket",
         "href": "/it-security/access-requests"
       }
