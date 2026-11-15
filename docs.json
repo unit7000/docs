@@ -154,8 +154,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
+    "light": "/logo/light-v2.png",
+    "dark": "/logo/dark-v2.png"
   },
   "navbar": {
     "links": [
